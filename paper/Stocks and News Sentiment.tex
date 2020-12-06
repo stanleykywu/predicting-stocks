@@ -1,0 +1,38 @@
+\documentclass[11pt]{article}
+
+\usepackage{fancyvrb}
+\usepackage{fullpage}
+\usepackage{dsfont}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{gensymb}
+\usepackage{verbatim}
+\usepackage{cellspace}
+\usepackage{amsmath}
+\DeclareMathOperator*{\argmax}{argmax} % no space, limits underneath in displays
+\usepackage[normalem]{ulem}
+\usepackage{listings}
+\usepackage{lstautogobble}
+\lstset{basicstyle=\ttfamily,
+  mathescape=true,
+  escapeinside=||,
+  autogobble}
+\useunder{\uline}{\ul}{}
+\usepackage[boxruled,vlined,nofillcomment]{algorithm2e}
+	\SetKwProg{Fn}{Function}{\string:}{}
+	\SetKwFor{While}{While}{}{}
+	\SetKwFor{For}{For}{}{}
+	\SetKwIF{If}{ElseIf}{Else}{If}{:}{ElseIf}{Else}{:}
+	\SetKw{Return}{Return}
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
+
+\begin{document}
+
+\end{document}
