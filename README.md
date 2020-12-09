@@ -1,5 +1,5 @@
 # Efficient  and  Effective  Methods  for  Predicting Stock Market Prices
-The paper detailing our experiments and results can be found within the "paper" folder, or <a href="/paper/AI_Paper.pdf" class="image fit">here</a> for quick access. **IMPORTANT NOTE:** for the blue links in the paper to work, you must download the paper from GitHub (aka. you can't just view it).
+Adrianna Liu, Stanley Wu, Patrick Yoon. The paper detailing our experiments and results can be found within the "paper" folder, or <a href="/paper/AI_Paper.pdf" class="image fit">here</a> for quick access. **IMPORTANT NOTE:** for the blue links in the paper to work, you must download the paper from GitHub (aka. you can't just view it).
 
 ## Requirements
 To install and make sure you have all requirements necessary to run our code, you can run `pip install -r requirements.txt` from the root directory to verify necessary packages and install missing ones.
