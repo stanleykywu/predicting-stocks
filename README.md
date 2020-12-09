@@ -1,4 +1,4 @@
-# Efficient  and  Effective  Methods  for  Pre-dicting Stock Market Prices
+# Efficient  and  Effective  Methods  for  Predicting Stock Market Prices
 The paper detailing our experiments and results can be found within the "paper" folder, or <a href="/paper/AI_Paper.pdf" class="image fit">here</a> for quick access.
 
 ## Requirements
