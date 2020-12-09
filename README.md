@@ -1,6 +1,11 @@
 # Efficient  and  Effective  Methods  for  Pre-dicting Stock Market Prices
 The paper detailing our experiments and results can be found within the "paper" folder, or <a href="/paper/AI_Paper.pdf" class="image fit">here</a> for quick access.
 
+## Requirements
+To install and make sure you have all requirements necessary to run our code, you can run `pip install -r requirements.txt` from the root directory to verify necessary packages and install missing ones.
+
+
+## Brief Instructions
 The appendix of the paper has been copied below with instructions on how to run our code:
 
 ## Decision Tree
