@@ -1,5 +1,5 @@
 # Efficient  and  Effective  Methods  for  Pre-dicting Stock Market Prices
-The paper detailing our experiments and results can be found within the "paper" folder, or <a href="/pdfs/ProjMarr_slides.pdf" class="image fit">here</a> for quick access.
+The paper detailing our experiments and results can be found within the "paper" folder, or <a href="/paper/AI_Paper.pdf" class="image fit">here</a> for quick access.
 
 The appendix of the paper has been copied below with instructions on how to run our code:
 
